@@ -22,7 +22,8 @@
   "author": "Maximilian Schwarzmüller/ Academind GmbH",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.20.2",
+    "jest": "^24.9.0",
+    "webpack": "^4.41.5",
     "webpack-cli": "^3.1.2"
   }
 }
